@@ -972,7 +972,9 @@ Go Top Style*/
 
 .box-btn.border-btn {
   background-color: transparent;
-  border: 1px solid #fff;
+  border: 2px solid #e6335a;
+  color: #e6335a;
+  font-weight: 900;
 }
 
 .box-btn:hover {
